@@ -2,7 +2,7 @@
 
 section .data 
   greet: db "hello!" , 10
-  name: db "my name is shane" , 10
+  name: db "my name is void" , 10
   math: db "1 + 1 = 2!" , 10
   questionpt1: db "what do " , 10
   questionpt2: db "you like?" , 10
