@@ -1,7 +1,7 @@
 #define variables
 #var <name> = <value>,<mod>
 var greet = "hello!"
-var name = "my name is shane"
+var name = "my name is void"
 var math = "1 + 1 = 2!"
 var questionpt1 = "what do "
 var questionpt2 = "you like?"
